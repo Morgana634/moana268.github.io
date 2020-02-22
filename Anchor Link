@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Anchor</title>
+</head>
+<body>
+  <a href="#my-anchor">Link to a website</a>
+  <div style="height: 1200px;"></div>
+  <a name="my-anchor">An boring websit right?</a>
+  <div style="height: 600px;"></div>
+</body>
+</html>
