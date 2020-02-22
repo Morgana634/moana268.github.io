@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Email</title>
+</head>
+<body>
+  <a href="mailto:shijunjin001@gmail.com">Mail to Henry</a>
+</body>
+</html>
